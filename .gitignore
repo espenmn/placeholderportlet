@@ -1,2 +1,9 @@
 
 *.pyc
+
+medialog.portlet.placeholder/medialog.portlet.placeholder.egg-info/PKG-INFO
+medialog.portlet.placeholder.egg-info/
+medialog.portlet.placeholder/medialog.portlet.placeholder.egg-info/*
+*.gz
+
+medialog.portlet.placeholder/medialog.portlet.placeholder.egg-info/PKG-INFO
