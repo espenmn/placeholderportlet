@@ -1,2 +1,0 @@
-medialog
-medialog.portlet
